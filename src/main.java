@@ -32,5 +32,7 @@ public class main {
 //all txt
 //vao bin
 //neu e 2 cham
+//bua sau hoc readme
+System.out.println("chuc cuoi tuan vv");
     }
 }
