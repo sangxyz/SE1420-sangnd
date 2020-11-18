@@ -38,7 +38,7 @@ public class MathUtilityTEST {
         assertEquals(120,MathUtility.getFactorial(5));//hay tinh gium tui 5 ! coi no co la 120 hem
         //co thi xanh
         //ko bao do
-        assertEquals(24,MathUtility.getFactorial(5));
+        assertEquals(120,MathUtility.getFactorial(5));
         //ky thuat tdd
     }
 }
