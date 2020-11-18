@@ -55,6 +55,6 @@ public class main {
         //bua nay minh hoc xanh do qua Junit
         //van vs muc tieu test ham co ngon ko nhng chi nhin dung 2 mau
         //tets cac tinh huong chay ham
-
+        System.out.println("Tao muon nhin thay doan code nay");
     }
 }
